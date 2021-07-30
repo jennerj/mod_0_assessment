@@ -7,4 +7,4 @@ laptop_musts = {
   "has_webcam" => true,
   "ideal_colors" => ['Black', 'Red', 'Grey'],
   "ideal_size" => ['19 inches', '20 inches', '21 inches']
-  }
+}
